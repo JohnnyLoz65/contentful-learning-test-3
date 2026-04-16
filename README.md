@@ -32,7 +32,7 @@ Download this project and create your own version with your own Contentful space
 
 ### Step 1: Create Your Contentful Account
 
-1. Go to [contentful.com](https://www.contentful.com)
+1. Go to [contentful.com](https://www.contentful.com/sign-up/)
 2. Click **"Start building for free"**
 3. Sign up with your email or GitHub
 4. When prompted, select **"Create an empty space"**
